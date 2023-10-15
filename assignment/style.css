@@ -1,13 +1,24 @@
+body{
+
+}
 header {
-    background-color: antiquewhite;
+    background-color: #808080;
 }
 
 .info{
     background-color: black;
+    text-align: center;
 }
 h2{
-    background-color: green;
+    background-color: #fed758 ;
 }
 h3{
     background-color: orangered;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+
 }
